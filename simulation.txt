@@ -1,0 +1,129 @@
+Tower Says: Baloon#B2(0)registered to weather tower
+Tower Says: Helicopter#H4(1)registered to weather tower
+Tower Says: JetPlane#J1(2)registered to weather tower
+Tower Says: Helicopter#H3(3)registered to weather tower
+Tower Says: Baloon#B1(4)registered to weather tower
+Tower Says: Helicopter#H1(5)registered to weather tower
+Tower Says: Helicopter#H2(6)registered to weather tower
+Tower Says: Baloon#B3(7)registered to weather tower
+Tower Says: JetPlane#J2(8)registered to weather tower
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Helicopter#H4(1): Ha-ha RAIN
+JetPlane#J1(2): Agghr FOG! very nice view great landscapes
+Helicopter#H3(3): Yeeehaaa blind flying
+Baloon#B1(4): Such a nice weather (Long +2, H +4)
+Helicopter#H1(5): Such a nice weather
+Helicopter#H2(6): Yeeehaaa blind flying
+Baloon#B3(7): Such a nice weather (Long +2, H +4)
+JetPlane#J2(8): Agghr FOG! very nice view great landscapes
+Baloon#B2(0): Great... it`s fucking RAIN (H -5)
+Position Report: Baloon#B2(0): (Lat[8]Lon[1]Hei[0])
+Tower Says: Baloon#B2(0)unregistered to weather tower
