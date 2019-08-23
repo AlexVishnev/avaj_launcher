@@ -26,12 +26,12 @@ public final class Baloon extends Aircraft implements Flyable {
             case "SUN":
                 coordinates = new Coordinates(coordinates.getLongitude() + 2,
                         coordinates.getLatitude(), coordinates.getHeight() + 4);
-                blackBox("Such a nice weather (Long +2, H +4)");
+                blackBox("Such a nice weather");
                 break;
             case "SNOW":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude(), coordinates.getHeight() - 15);
-                blackBox("What!??? Seriously SNOW?? I`m out of here (H -15)");
+                blackBox("What!??? Seriously SNOW?? I`m out of here");
                 break;
 
             case "RAIN":
@@ -43,7 +43,7 @@ public final class Baloon extends Aircraft implements Flyable {
             case "FOG":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude(), coordinates.getHeight() - 3);
-                blackBox("Agghr FOG! very nice view great landscapes  (H -3)");
+                blackBox("Agghr FOG! very nice view great landscapes");
                 break;
 
             default:
