@@ -14,7 +14,8 @@ public class Lexer {
     private static Map<AirParts, Coordinates> airVehicles = new HashMap<>();
 
 
-    private Lexer() {}
+    private Lexer() {
+    }
 
 
     public static void startTokenizer(List<String> data) throws LexerException {
@@ -34,9 +35,13 @@ public class Lexer {
         StringTokenizer lexer = new StringTokenizer(data);
 
         if (lexer.countTokens() != 1 && lexer.countTokens() != 5)
-            if (lexer.hasMoreTokens())
-                throw new LexerException(lexer.nextToken());
-            else
+            if (lexer.hasMoreTokens()) {
+                String tmp = "";
+                while (lexer.hasMoreTokens()) {
+                    tmp += lexer.nextToken() + " ";
+                }
+                throw new LexerException("Wrong format: " + tmp);
+            } else
                 throw new LexerException("Something goes completely wrong");
 
         if (lexer.countTokens() == 1) {
