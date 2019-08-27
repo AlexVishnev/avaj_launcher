@@ -12,7 +12,6 @@ public final class Baloon extends Aircraft implements Flyable {
         super(name, coordinates);
         type = "Baloon";
     }
-
     @Override
     public void updateConditions() {
         if (weatherTower == null)

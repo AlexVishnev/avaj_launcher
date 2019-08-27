@@ -58,7 +58,7 @@ public class Lexer {
                 );
                 craftScheme(airParts, coordinates);
             } catch (NumberFormatException e) {
-                throw new LexerException("trying co convert string -> int");
+                throw new LexerException("Invalid convert string -> int");
             }
         }
     }

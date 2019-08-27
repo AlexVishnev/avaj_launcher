@@ -34,9 +34,12 @@ public class Simulator {
             try {
                 Lexer.startTokenizer(Parser.getData());
 
-            } catch (NullPointerException | LexerException e) {
-                e.printStackTrace();
+            } catch (LexerException e) {
+                e.printErrorMessage();
                 System.exit(-2);
+            }
+            catch (Exception e){
+                e.printStackTrace();
             }
 
             try {
