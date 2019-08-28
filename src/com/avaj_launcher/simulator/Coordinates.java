@@ -10,21 +10,10 @@ public class Coordinates {
 
         if (height > 100)
             height = 100;
-        else if (height < 0)
-            height = 0;
 
-        this.height = height;
-
-        if (latitude < 0)
-            latitude = 0;
-
-        this.latitude = latitude;
-
-        if (longitude < 0)
-            longitude = 0;
-
-        this.longitude = longitude;
-
+        this.height = height < 0 ? 0 : height;
+        this.latitude = latitude < 0 ? 0 : latitude;
+        this.longitude = longitude < 0 ? 0 : longitude;
     }
 
     public int getLongitude() {
