@@ -11,7 +11,8 @@ import java.util.StringTokenizer;
 public class Lexer {
 
     private static int cycles = 0;
-    private static Map<AirParts, Coordinates> airVehicles = new HashMap<>();
+    private static boolean isCycleDefined = false;
+    private static final Map<AirParts, Coordinates> airVehicles = new HashMap<>();
 
 
     private Lexer() {
@@ -36,18 +37,21 @@ public class Lexer {
 
         if (lexer.countTokens() != 1 && lexer.countTokens() != 5)
             if (lexer.hasMoreTokens()) {
-                String tmp = "";
+                StringBuilder tmp = new StringBuilder();
+                int i = 0;
                 while (lexer.hasMoreTokens()) {
-                    tmp += lexer.nextToken() + " ";
+                    tmp.append(lexer.nextToken()).append(" ");
+                    ++i;
                 }
-                throw new LexerException("Wrong format: " + tmp);
+                throw new LexerException("Wrong format: " + tmp + "parameters amount " + i);
             } else
-                throw new LexerException("Something goes completely wrong");
+                throw new LexerException("Wrong amount of parameters [" + lexer.countTokens() + "] (required 5 || 1)");
 
-        if (lexer.countTokens() == 1) {
+        if (lexer.countTokens() == 1 && !isCycleDefined) {
 
             try {
                 cycles = Integer.parseInt(lexer.nextToken());
+                isCycleDefined = true;
             } catch (NumberFormatException e) {
                 throw new LexerException("wrong amount of cycle iteration");
             }

@@ -1,7 +1,7 @@
 package com.avaj_launcher.CustomExceptions;
 
 public class LexerException extends Exception {
-    private String message;
+    private final String message;
 
     public LexerException(String message) {
         super("Lexer Exception: " + message);
@@ -10,7 +10,6 @@ public class LexerException extends Exception {
 
     public void printErrorMessage() {
         System.err.println(message);
-
     }
 
 }

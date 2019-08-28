@@ -9,8 +9,8 @@ import java.util.List;
 
 public class Tower {
 
-    private List<Flyable> observes = new LinkedList<Flyable>();
-    private List<Flyable> dead = new LinkedList<Flyable>();
+    private final List<Flyable> observes = new LinkedList<>();
+    private final List<Flyable> dead = new LinkedList<>();
 
     public void register(Flyable flyable) {
         if (observes.contains(flyable))
@@ -24,19 +24,13 @@ public class Tower {
         Logger.log("Tower Says: " + flyable.getInfo() + "unregistered to weather tower");
         System.out.println("Tower says:  unregistered to weather tower.");
         dead.add(flyable);
-
-//TODO Think about unregister flyable (java.util.ConcurrentModificationException)
     }
 
     protected void conditionChanged() {
         observes.forEach(Flyable::updateConditions);
 
-        for (Flyable flyable: dead) {
+        for (Flyable flyable : dead) {
             observes.removeIf(flyable1 -> flyable1 == flyable);
         }
-//        for (Flyable flyable: observes){
-//            System.out.println(flyable.getInfo());
-//        }
-        System.out.println("SIZE SUKA: " + observes.size());
     }
 }

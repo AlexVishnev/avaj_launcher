@@ -2,9 +2,9 @@ package com.avaj_launcher.simulator;
 
 public class Coordinates {
 
-    private int longitude;
-    private int latitude;
-    private int height;
+    private final int longitude;
+    private final int latitude;
+    private final int height;
 
     public Coordinates(int longitude, int latitude, int height) {
 

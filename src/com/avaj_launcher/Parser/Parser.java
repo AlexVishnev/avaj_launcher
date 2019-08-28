@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Parser {
 
-    private static List<String> data = new ArrayList<String>();
+    private static final List<String> data = new ArrayList<>();
 
     private Parser() {
 

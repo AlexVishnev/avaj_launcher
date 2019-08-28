@@ -2,13 +2,12 @@ package com.avaj_launcher.simulator;
 
 
 import com.avaj_launcher.CustomExceptions.FactoryException;
+import com.avaj_launcher.CustomExceptions.LexerException;
 import com.avaj_launcher.Loging.Logger;
 import com.avaj_launcher.Parser.AirParts;
 import com.avaj_launcher.Parser.Lexer;
-import com.avaj_launcher.CustomExceptions.LexerException;
 import com.avaj_launcher.Parser.Parser;
 import com.avaj_launcher.interfaces.Flyable;
-
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -16,8 +15,8 @@ import java.util.Map;
 
 public class Simulator {
 
-    private static ArrayList<Flyable> flyables = new ArrayList<>();
-    private static WeatherTower tower = new WeatherTower();
+    private static final ArrayList<Flyable> flyables = new ArrayList<>();
+    private static final WeatherTower tower = new WeatherTower();
 
     public static void main(String[] args) {
 
@@ -37,19 +36,16 @@ public class Simulator {
             } catch (LexerException e) {
                 e.printErrorMessage();
                 System.exit(-2);
-            }
-            catch (Exception e){
+            } catch (Exception e) {
                 e.printStackTrace();
             }
 
             try {
                 final Map<AirParts, Coordinates> airVehicles = Lexer.getAirVehicles();
 
-                airVehicles.forEach((k, v) -> System.out.println(k.type + " " + k.name + " " + v.getHeight()));
-
                 airVehicles.forEach((vehicle, position) -> injectData(vehicle.type, vehicle.name, position));
 
-                for (Flyable flyable: flyables) {
+                for (Flyable flyable : flyables) {
                     flyable.registerTower(tower);
                 }
 
@@ -65,13 +61,11 @@ public class Simulator {
     private static void injectData(String type, String name, Coordinates c) {
 
         try {
-            flyables.add(
-                    AircraftFactory.newAircraft(type, name, c.getLatitude(),
-                            c.getLongitude(), c.getHeight())
+            flyables.add(AircraftFactory.newAircraft(type, name,
+                    c.getLatitude(), c.getLongitude(), c.getHeight())
             );
-        }
-        catch (FactoryException e) {
-            e.printStackTrace();
+        } catch (FactoryException e) {
+            e.printErrorMessage();
             System.exit(-1);
         }
     }

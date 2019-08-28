@@ -1,0 +1,169 @@
+Tower Says: Baloon#B3(0)registered to weather tower
+Tower Says: Helicopter#H4(1)registered to weather tower
+Tower Says: JetPlane#J2(2)registered to weather tower
+Tower Says: Baloon#B1(3)registered to weather tower
+Tower Says: Helicopter#H1(4)registered to weather tower
+Tower Says: Baloon#B2(5)registered to weather tower
+Tower Says: JetPlane#J1(6)registered to weather tower
+Tower Says: Helicopter#H2(7)registered to weather tower
+Tower Says: Helicopter#H3(8)registered to weather tower
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Baloon#B2(5): Great... it`s fucking RAIN (H -5)
+Position Report: Baloon#B2(5): (Lat[8]Lon[23]Hei[0])
+Tower Says: Baloon#B2(5)unregistered to weather tower
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Position Report: JetPlane#J1(6): (Lat[44]Lon[23]Hei[0])
+Tower Says: JetPlane#J1(6)unregistered to weather tower
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): What!??? Seriously SNOW??
+Position Report: Helicopter#H3(8): (Lat[68]Lon[98]Hei[0])
+Tower Says: Helicopter#H3(8)unregistered to weather tower
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Position Report: Baloon#B3(0): (Lat[22]Lon[102]Hei[0])
+Tower Says: Baloon#B3(0)unregistered to weather tower
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H4(1): Such a nice weather
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Such a nice weather
+Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H2(7): Ha-ha RAIN

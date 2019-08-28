@@ -3,8 +3,8 @@ package com.avaj_launcher.simulator;
 import com.avaj_launcher.Loging.Logger;
 
 public class Aircraft {
-    private long id;
-    private String name;
+    private final long id;
+    private final String name;
     protected String type;
     protected Coordinates coordinates;
 

@@ -12,7 +12,7 @@ public class Logger {
         Logger.writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path), StandardCharsets.UTF_8));
     }
 
-    public static void log(String logMessage){
+    public static void log(String logMessage) {
         try {
             Logger.writer.write(logMessage + '\n');
             Logger.writer.flush();

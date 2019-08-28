@@ -1,9 +1,0 @@
-Tower Says: com.avaj_launcher.simulator.Baloon@2e0fa5d3registered to weather tower
-Tower Says: com.avaj_launcher.simulator.Helicopter@728938a9registered to weather tower
-Tower Says: com.avaj_launcher.simulator.Baloon@21b8d17cregistered to weather tower
-Tower Says: com.avaj_launcher.simulator.Helicopter@6433a2registered to weather tower
-Tower Says: com.avaj_launcher.simulator.JetPlane@5910e440registered to weather tower
-Tower Says: com.avaj_launcher.simulator.Baloon@6267c3bbregistered to weather tower
-Tower Says: com.avaj_launcher.simulator.Helicopter@533ddbaregistered to weather tower
-Tower Says: com.avaj_launcher.simulator.JetPlane@246b179dregistered to weather tower
-Tower Says: com.avaj_launcher.simulator.Helicopter@7a07c5b4registered to weather tower
