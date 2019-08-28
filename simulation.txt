@@ -1,3 +1,12 @@
+Baloon#B3(0): Baloon#B3(0) Pilot Says: Yeah bitch im high as shit!
+Helicopter#H4(1): Helicopter#H4(1) Pilot Says: Yeah bitch im high as shit!
+JetPlane#J2(2): JetPlane#J2(2) Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!
+Baloon#B1(3): Baloon#B1(3) Pilot Says: Yeah bitch im high as shit!
+Helicopter#H1(4): Helicopter#H1(4) Pilot Says: Yeah bitch im high as shit!
+Baloon#B2(5): Baloon#B2(5) Pilot Says: Yeah bitch im high as shit!
+JetPlane#J1(6): JetPlane#J1(6) Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!
+Helicopter#H2(7): Helicopter#H2(7) Pilot Says: Yeah bitch im high as shit!
+Helicopter#H3(8): Helicopter#H3(8) Pilot Says: Yeah bitch im high as shit!
 Tower Says: Baloon#B3(0)registered to weather tower
 Tower Says: Helicopter#H4(1)registered to weather tower
 Tower Says: JetPlane#J2(2)registered to weather tower
@@ -7,163 +16,224 @@ Tower Says: Baloon#B2(5)registered to weather tower
 Tower Says: JetPlane#J1(6)registered to weather tower
 Tower Says: Helicopter#H2(7)registered to weather tower
 Tower Says: Helicopter#H3(8)registered to weather tower
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
+Baloon#B3(0): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
 Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Baloon#B2(5): Great... it`s fucking RAIN (H -5)
+Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Baloon#B2(5): Great... it`s fucking RAIN
 Position Report: Baloon#B2(5): (Lat[8]Lon[23]Hei[0])
 Tower Says: Baloon#B2(5)unregistered to weather tower
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Baloon#B3(0): Great... it`s fucking RAIN
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Agghr FOG! very nice view great landscapes
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): Agghr FOG! very nice view great landscapes
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Agghr FOG! very nice view great landscapes
+Baloon#B1(3): Great... it`s fucking RAIN
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
 JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
 Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Great... it`s fucking RAIN
+Baloon#B1(3): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
 JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Position Report: JetPlane#J1(6): (Lat[44]Lon[23]Hei[0])
-Tower Says: JetPlane#J1(6)unregistered to weather tower
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H3(8): What!??? Seriously SNOW??
-Position Report: Helicopter#H3(8): (Lat[68]Lon[98]Hei[0])
-Tower Says: Helicopter#H3(8)unregistered to weather tower
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Such a nice weather
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Baloon#B3(0): What!??? Seriously SNOW?? I`m out of here
 Position Report: Baloon#B3(0): (Lat[22]Lon[102]Hei[0])
 Tower Says: Baloon#B3(0)unregistered to weather tower
-Helicopter#H4(1): Such a nice weather
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Baloon#B1(3): What!??? Seriously SNOW?? I`m out of here
+Position Report: Baloon#B1(3): (Lat[3]Lon[4]Hei[0])
+Tower Says: Baloon#B1(3)unregistered to weather tower
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): Great... it`s fucking RAIN
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): Great... it`s fucking RAIN
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): Great... it`s fucking RAIN
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): Great... it`s fucking RAIN
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H1(4): Yeeahaaa! Blind flying
+JetPlane#J1(6): Agghr FOG! very nice view great landscapes
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): Agghr FOG! very nice view great landscapes
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Great... it`s fucking RAIN
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H1(4): (Lat[33]Lon[750]Hei[0])
+Tower Says: Helicopter#H1(4)unregistered to weather tower
+JetPlane#J1(6): I love the smell of napalm in the sunny morning
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Position Report: JetPlane#J1(6): (Lat[27]Lon[103]Hei[0])
+Tower Says: JetPlane#J1(6)unregistered to weather tower
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H2(7): (Lat[33]Lon[126]Hei[0])
+Tower Says: Helicopter#H2(7)unregistered to weather tower
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Great... it`s fucking RAIN
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Great... it`s fucking RAIN
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Yeeahaaa! Blind flying
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
-Helicopter#H4(1): Such a nice weather
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H4(1): (Lat[23]Lon[370]Hei[0])
+Tower Says: Helicopter#H4(1)unregistered to weather tower
+JetPlane#J2(2): Great... it`s fucking RAIN
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
 JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Baloon#B1(3): Such a nice weather
-Helicopter#H1(4): Ha-ha RAIN
-Helicopter#H2(7): Ha-ha RAIN
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Great... it`s fucking RAIN
+Helicopter#H3(8): Yeeahaaa! Blind flying
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): I love the smell of napalm in the sunny morning
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H3(8): (Lat[68]Lon[271]Hei[0])
+Tower Says: Helicopter#H3(8)unregistered to weather tower
+JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+Position Report: JetPlane#J2(2): (Lat[86]Lon[81]Hei[0])
+Tower Says: JetPlane#J2(2)unregistered to weather tower

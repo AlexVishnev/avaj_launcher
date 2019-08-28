@@ -4,28 +4,23 @@ import com.avaj_launcher.interfaces.Flyable;
 
 public final class JetPlane extends Aircraft implements Flyable {
 
-    private WeatherTower weatherTower = null;
-    private String currentWeather = null;
+    private WeatherTower weatherTower = new WeatherTower();
 
     JetPlane(String name, Coordinates coordinates) {
         super(name, coordinates);
         type = "JetPlane";
+
+        blackBox(super.getInfo() + " Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!");
     }
 
     @Override
     public void updateConditions() {
-        if (weatherTower == null)
-            System.out.println("Error: Weather tower didnt set");
 
-        String meteoReport = weatherTower.getWeather(coordinates);
-
-        if (currentWeather == null || currentWeather.equals(meteoReport))
-            currentWeather = meteoReport;
-        switch (currentWeather) {
+        switch (weatherTower.getWeather(coordinates)) {
             case "SUN":
                 coordinates = new Coordinates(coordinates.getLongitude() + 10,
                         coordinates.getLatitude(), coordinates.getHeight() + 2);
-                blackBox("Such a nice weather");
+                blackBox("I love the smell of napalm in the sunny morning");
                 break;
             case "SNOW":
                 coordinates = new Coordinates(coordinates.getLongitude(),

@@ -4,24 +4,16 @@ import com.avaj_launcher.interfaces.Flyable;
 
 public final class Baloon extends Aircraft implements Flyable {
 
-    private WeatherTower weatherTower = null;
-    private String currentWeather = null;
-
-
+    private WeatherTower weatherTower = new WeatherTower();
     Baloon(String name, Coordinates coordinates) {
         super(name, coordinates);
         type = "Baloon";
+        blackBox(super.getInfo() + " Pilot Says: Yeah bitch im high as shit!");
     }
     @Override
     public void updateConditions() {
-        if (weatherTower == null)
-            System.out.println("Error: Weather tower didnt set");
 
-        String meteoReport = weatherTower.getWeather(coordinates);
-
-        if (currentWeather == null || currentWeather.equals(meteoReport))
-            currentWeather = meteoReport;
-        switch (currentWeather) {
+        switch (weatherTower.getWeather(coordinates)) {
             case "SUN":
                 coordinates = new Coordinates(coordinates.getLongitude() + 2,
                         coordinates.getLatitude(), coordinates.getHeight() + 4);
@@ -36,7 +28,7 @@ public final class Baloon extends Aircraft implements Flyable {
             case "RAIN":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude(), coordinates.getHeight() - 5);
-                blackBox("Great... it`s fucking RAIN (H -5)");
+                blackBox("Great... it`s fucking RAIN");
                 break;
 
             case "FOG":
@@ -48,7 +40,7 @@ public final class Baloon extends Aircraft implements Flyable {
             default:
                 break;
         }
-        if (coordinates.getHeight() == 0) {
+        if (coordinates.getHeight() <= 0) {
             positionReport();
             weatherTower.unregister(this);
         }
