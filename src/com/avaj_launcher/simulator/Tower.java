@@ -31,4 +31,8 @@ public class Tower {
             observes.removeIf(flyable1 -> flyable1 == flyable);
         }
     }
+
+    public boolean hasMoreRegistredObjects(){
+        return !observes.isEmpty();
+    }
 }

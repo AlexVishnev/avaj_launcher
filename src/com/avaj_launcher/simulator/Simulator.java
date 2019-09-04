@@ -52,6 +52,9 @@ public class Simulator {
             }
 
             for (int i = 0; i < Lexer.getCyclesAmount(); i++) {
+                if (!tower.hasMoreRegistredObjects())
+                    break;
+                Logger.log("\nSimulation " + (i + 1));
                 tower.changeWeather();
             }
         } catch (Exception e) {
