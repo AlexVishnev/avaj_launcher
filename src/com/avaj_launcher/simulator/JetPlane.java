@@ -10,7 +10,7 @@ public final class JetPlane extends Aircraft implements Flyable {
         super(name, coordinates);
         type = "JetPlane";
 
-        blackBox(super.getInfo() + " Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!");
+        blackBox(" Driver Says: Emmm... guys i`m not a pilot!");
     }
 
     @Override
@@ -20,30 +20,30 @@ public final class JetPlane extends Aircraft implements Flyable {
             case "SUN":
                 coordinates = new Coordinates(coordinates.getLongitude() + 10,
                         coordinates.getLatitude(), coordinates.getHeight() + 2);
-                blackBox("I love the smell of napalm in the sunny morning");
+                blackBox("Ok, maybe it`s not scary that i think. Sunny weather colored buttons.");
                 break;
             case "SNOW":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude(), coordinates.getHeight() - 7);
-                blackBox("What!??? Seriously SNOW?? I`m out of here");
+                blackBox("Houston, we have a problem! There is snowing and I`M NOT A PILOT!");
                 break;
 
             case "RAIN":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude() - 5, coordinates.getHeight());
-                blackBox("Great... it`s fucking RAIN");
+                blackBox("Hello! Anybody there? It`s rainy? what i suppose to do?");
                 break;
 
             case "FOG":
                 coordinates = new Coordinates(coordinates.getLongitude(),
                         coordinates.getLatitude() + 1, coordinates.getHeight());
-                blackBox("Agghr FOG! very nice view great landscapes");
+                blackBox("i can`t see anything, what have to do? Why everyone doesnt answer?");
                 break;
 
             default:
                 break;
         }
-        if (coordinates.getHeight() == 0) {
+        if (coordinates.getHeight() <= 0) {
             positionReport();
             weatherTower.unregister(this);
         }

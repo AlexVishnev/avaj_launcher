@@ -8,7 +8,7 @@ public final class Baloon extends Aircraft implements Flyable {
     Baloon(String name, Coordinates coordinates) {
         super(name, coordinates);
         type = "Baloon";
-        blackBox(super.getInfo() + " Pilot Says: Yeah bitch im high as shit!");
+        blackBox(" Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!");
     }
     @Override
     public void updateConditions() {
@@ -17,7 +17,7 @@ public final class Baloon extends Aircraft implements Flyable {
             case "SUN":
                 coordinates = new Coordinates(coordinates.getLongitude() + 2,
                         coordinates.getLatitude(), coordinates.getHeight() + 4);
-                blackBox("Such a nice weather");
+                blackBox("wow it`s sunny. We are getting high if you know what i mean");
                 break;
             case "SNOW":
                 coordinates = new Coordinates(coordinates.getLongitude(),

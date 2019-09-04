@@ -1,12 +1,12 @@
-Baloon#B3(0): Baloon#B3(0) Pilot Says: Yeah bitch im high as shit!
-Helicopter#H4(1): Helicopter#H4(1) Pilot Says: Yeah bitch im high as shit!
-JetPlane#J2(2): JetPlane#J2(2) Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!
-Baloon#B1(3): Baloon#B1(3) Pilot Says: Yeah bitch im high as shit!
-Helicopter#H1(4): Helicopter#H1(4) Pilot Says: Yeah bitch im high as shit!
-Baloon#B2(5): Baloon#B2(5) Pilot Says: Yeah bitch im high as shit!
-JetPlane#J1(6): JetPlane#J1(6) Pilot Says: Did you see anybody from Helicopter pilots? I want a pot!
-Helicopter#H2(7): Helicopter#H2(7) Pilot Says: Yeah bitch im high as shit!
-Helicopter#H3(8): Helicopter#H3(8) Pilot Says: Yeah bitch im high as shit!
+Baloon#B3(0):  Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!
+Helicopter#H4(1):  Pilot Says: Yeah bitch im high as shit!
+JetPlane#J2(2):  Driver Says: Emmm... guys i`m not a pilot!
+Baloon#B1(3):  Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!
+Helicopter#H1(4):  Pilot Says: Yeah bitch im high as shit!
+Baloon#B2(5):  Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!
+JetPlane#J1(6):  Driver Says: Emmm... guys i`m not a pilot!
+Helicopter#H2(7):  Pilot Says: Yeah bitch im high as shit!
+Helicopter#H3(8):  Pilot Says: Yeah bitch im high as shit!
 Tower Says: Baloon#B3(0)registered to weather tower
 Tower Says: Helicopter#H4(1)registered to weather tower
 Tower Says: JetPlane#J2(2)registered to weather tower
@@ -16,216 +16,279 @@ Tower Says: Baloon#B2(5)registered to weather tower
 Tower Says: JetPlane#J1(6)registered to weather tower
 Tower Says: Helicopter#H2(7)registered to weather tower
 Tower Says: Helicopter#H3(8)registered to weather tower
-Baloon#B3(0): Agghr FOG! very nice view great landscapes
-Helicopter#H4(1): Yeeahaaa! Blind flying
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Baloon#B1(3): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-Baloon#B2(5): Agghr FOG! very nice view great landscapes
+Baloon#B3(0): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Baloon#B1(3): Great... it`s fucking RAIN
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+Baloon#B2(5): Great... it`s fucking RAIN
 Position Report: Baloon#B2(5): (Lat[8]Lon[23]Hei[0])
 Tower Says: Baloon#B2(5)unregistered to weather tower
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): Yeeahaaa! Blind flying
-Baloon#B3(0): Great... it`s fucking RAIN
-Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): Great... it`s fucking RAIN
-Baloon#B1(3): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Yeeahaaa! Blind flying
-JetPlane#J1(6): Agghr FOG! very nice view great landscapes
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): Yeeahaaa! Blind flying
-Baloon#B3(0): Great... it`s fucking RAIN
-Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Baloon#B1(3): Great... it`s fucking RAIN
-Position Report: Baloon#B1(3): (Lat[3]Lon[2]Hei[0])
-Tower Says: Baloon#B1(3)unregistered to weather tower
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-JetPlane#J1(6): I love the smell of napalm in the sunny morning
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
-Baloon#B3(0): Such a nice weather
-Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Helicopter#H1(4): Yeeahaaa! Blind flying
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Baloon#B3(0): Great... it`s fucking RAIN
-Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Yeeahaaa! Blind flying
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
-Baloon#B3(0): Great... it`s fucking RAIN
-Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J1(6): Great... it`s fucking RAIN
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
 Helicopter#H2(7): Yeeahaaa! Blind flying
-Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Baloon#B3(0): wow it`s sunny. We are getting high if you know what i mean
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Baloon#B1(3): Great... it`s fucking RAIN
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Baloon#B3(0): Great... it`s fucking RAIN
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Baloon#B1(3): Agghr FOG! very nice view great landscapes
+Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
 Baloon#B3(0): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+Baloon#B1(3): wow it`s sunny. We are getting high if you know what i mean
+Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Baloon#B3(0): Great... it`s fucking RAIN
 Position Report: Baloon#B3(0): (Lat[22]Lon[104]Hei[0])
 Tower Says: Baloon#B3(0)unregistered to weather tower
-Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+Baloon#B1(3): Great... it`s fucking RAIN
+Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+Baloon#B1(3): Great... it`s fucking RAIN
+Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H1(4): (Lat[33]Lon[684]Hei[0])
+Tower Says: Helicopter#H1(4)unregistered to weather tower
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+Baloon#B1(3): Great... it`s fucking RAIN
+Position Report: Baloon#B1(3): (Lat[3]Lon[4]Hei[0])
+Tower Says: Baloon#B1(3)unregistered to weather tower
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
 Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H2(7): Yeeahaaa! Blind flying
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H2(7): (Lat[33]Lon[70]Hei[0])
+Tower Says: Helicopter#H2(7)unregistered to weather tower
 Helicopter#H3(8): Yeeahaaa! Blind flying
 Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J1(6): Great... it`s fucking RAIN
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Yeeahaaa! Blind flying
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
 Helicopter#H3(8): Yeeahaaa! Blind flying
 Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Position Report: Helicopter#H4(1): (Lat[23]Lon[239]Hei[0])
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+Helicopter#H4(1): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+Helicopter#H4(1): And since we`ve no place to go, Let it snow Let it snow Let it snow
+Position Report: Helicopter#H4(1): (Lat[23]Lon[378]Hei[0])
 Tower Says: Helicopter#H4(1)unregistered to weather tower
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-JetPlane#J1(6): Great... it`s fucking RAIN
-Helicopter#H2(7): Yeeahaaa! Blind flying
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
 Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J1(6): I love the smell of napalm in the sunny morning
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): Yeeahaaa! Blind flying
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-JetPlane#J1(6): Great... it`s fucking RAIN
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-JetPlane#J1(6): I love the smell of napalm in the sunny morning
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): Yeeahaaa! Blind flying
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J1(6): What!??? Seriously SNOW?? I`m out of here
-Position Report: JetPlane#J1(6): (Lat[25]Lon[53]Hei[0])
-Tower Says: JetPlane#J1(6)unregistered to weather tower
-Helicopter#H2(7): Yeeahaaa! Blind flying
-Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
 Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-Helicopter#H2(7): Yeeahaaa! Blind flying
-Helicopter#H3(8): Yeeahaaa! Blind flying
-JetPlane#J2(2): Great... it`s fucking RAIN
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Helicopter#H3(8): Yeeahaaa! Blind flying
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Riders on the storm ... tun-tun-tudun
-Helicopter#H2(7): Yeeahaaa! Blind flying
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H1(4): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H2(7): Sunrise Sunrise looks like morning in yours eyes!
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-Helicopter#H1(4): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Position Report: Helicopter#H1(4): (Lat[33]Lon[767]Hei[0])
-Tower Says: Helicopter#H1(4)unregistered to weather tower
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-Helicopter#H2(7): Riders on the storm ... tun-tun-tudun
-Helicopter#H3(8): Yeeahaaa! Blind flying
-JetPlane#J2(2): Great... it`s fucking RAIN
-Helicopter#H2(7): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Position Report: Helicopter#H2(7): (Lat[33]Lon[127]Hei[0])
-Tower Says: Helicopter#H2(7)unregistered to weather tower
-Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-JetPlane#J2(2): Great... it`s fucking RAIN
-Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
 Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
 Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Helicopter#H3(8): Yeeahaaa! Blind flying
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Riders on the storm ... tun-tun-tudun
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+Helicopter#H3(8): Sunrise Sunrise looks like morning in yours eyes!
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
 Helicopter#H3(8): And since we`ve no place to go, Let it snow Let it snow Let it snow
-Position Report: Helicopter#H3(8): (Lat[68]Lon[183]Hei[0])
+Position Report: Helicopter#H3(8): (Lat[68]Lon[296]Hei[0])
 Tower Says: Helicopter#H3(8)unregistered to weather tower
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): Agghr FOG! very nice view great landscapes
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): Great... it`s fucking RAIN
-JetPlane#J2(2): I love the smell of napalm in the sunny morning
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-JetPlane#J2(2): What!??? Seriously SNOW?? I`m out of here
-Position Report: JetPlane#J2(2): (Lat[36]Lon[261]Hei[0])
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J1(6): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J1(6): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J1(6): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Position Report: JetPlane#J1(6): (Lat[1]Lon[173]Hei[0])
+Tower Says: JetPlane#J1(6)unregistered to weather tower
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Ok, maybe it`s not scary that i think. Sunny weather colored buttons.
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+JetPlane#J2(2): i can`t see anything, what have to do? Why everyone doesnt answer?
+JetPlane#J2(2): Hello! Anybody there? It`s rainy? what i suppose to do?
+JetPlane#J2(2): Houston, we have a problem! There is snowing and I`M NOT A PILOT!
+Position Report: JetPlane#J2(2): (Lat[0]Lon[321]Hei[0])
 Tower Says: JetPlane#J2(2)unregistered to weather tower

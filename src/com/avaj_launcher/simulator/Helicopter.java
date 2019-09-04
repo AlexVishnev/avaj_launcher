@@ -9,7 +9,7 @@ public final class Helicopter extends Aircraft implements Flyable {
     Helicopter(String name, Coordinates coordinates) {
         super(name, coordinates);
         type = "Helicopter";
-        blackBox(super.getInfo() + " Pilot Says: Yeah bitch im high as shit!");
+        blackBox(" Pilot Says: Yeah bitch im high as shit!");
     }
 
     @Override
@@ -42,7 +42,7 @@ public final class Helicopter extends Aircraft implements Flyable {
             default:
                 break;
         }
-        if (coordinates.getHeight() == 0) {
+        if (coordinates.getHeight() <= 0) {
             positionReport();
             weatherTower.unregister(this);
         }
