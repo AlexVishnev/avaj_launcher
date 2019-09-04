@@ -10,9 +10,9 @@ import java.util.StringTokenizer;
 
 public class Lexer {
 
+    private static final Map<AirParts, Coordinates> airVehicles = new HashMap<>();
     private static int cycles = 0;
     private static boolean isCycleDefined = false;
-    private static final Map<AirParts, Coordinates> airVehicles = new HashMap<>();
 
 
     private Lexer() {

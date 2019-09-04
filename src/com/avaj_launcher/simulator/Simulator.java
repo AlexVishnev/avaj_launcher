@@ -61,7 +61,7 @@ public class Simulator {
             e.printStackTrace();
         }
 
-}
+    }
 
     private static void injectData(String type, String name, Coordinates c) {
 
