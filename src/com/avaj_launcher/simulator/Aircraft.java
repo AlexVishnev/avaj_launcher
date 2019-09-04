@@ -29,8 +29,8 @@ public class Aircraft {
     }
 
     protected void positionReport() {
-        Logger.log("Position Report: " + getInfo() + ": (Lat[" + coordinates.getLatitude() + "]Lon["
-                + coordinates.getLongitude() + "]Hei[" + coordinates.getHeight() +"])" );
+        Logger.log("Report: " + getInfo() + "last seems at " + ": ([" + coordinates.getLatitude() + "] ["
+                + coordinates.getLongitude() + "] [" + coordinates.getHeight() +"])" + " Rest In Peace" );
     }
 
 }
