@@ -8,7 +8,7 @@ public final class Baloon extends Aircraft implements Flyable {
     Baloon(String name, Coordinates coordinates) {
         super(name, coordinates);
         type = "Baloon";
-        blackBox(" Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!");
+//        blackBox(" Pilot Says: Did you see anybody from Helicopter pilots? I wanna a pot!");
     }
     @Override
     public void updateConditions() {

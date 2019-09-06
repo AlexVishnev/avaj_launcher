@@ -16,6 +16,10 @@ public class WeatherProvider {
 
     public String getCurrentWeather(Coordinates coordinates) {
         int random = new Random().nextInt(weather.length);
+
+        if (coordinates.getHeight() > 90){
+            random = random == 2 ? 3 : random;
+        }
         return weather[random];
     }
 

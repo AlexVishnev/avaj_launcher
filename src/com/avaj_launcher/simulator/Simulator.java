@@ -2,6 +2,7 @@ package com.avaj_launcher.simulator;
 
 import com.avaj_launcher.CustomExceptions.FactoryException;
 import com.avaj_launcher.CustomExceptions.LexerException;
+import com.avaj_launcher.CustomExceptions.SimulatorException;
 import com.avaj_launcher.Loging.Logger;
 import com.avaj_launcher.Parser.AirParts;
 import com.avaj_launcher.Parser.Lexer;
@@ -17,13 +18,11 @@ public class Simulator {
     private static final ArrayList<Flyable> flyables = new ArrayList<>();
     private static final WeatherTower tower = new WeatherTower();
 
-    public static void main(String[] args) {
+    public static void run(String[] args) throws SimulatorException {
 
+        if (args.length != 1)
+            throw new SimulatorException("wrong amount of arguments");
 
-        if (args.length != 1) {
-            System.err.println("Wrong usage!");
-            System.exit(-1);
-        }
         try {
             Logger.setFileToWrite("simulation.txt");
         } catch (IOException e) {
@@ -43,6 +42,7 @@ public class Simulator {
         }
 
         try {
+
             final Map<AirParts, Coordinates> airVehicles = Lexer.getAirVehicles();
 
             airVehicles.forEach((vehicle, position) -> injectData(vehicle.type, vehicle.name, position));
@@ -51,6 +51,8 @@ public class Simulator {
                 flyable.registerTower(tower);
             }
 
+            if (Lexer.getCyclesAmount() == 0)
+                throw new SimulatorException("no simulation cycle to run");
             for (int i = 0; i < Lexer.getCyclesAmount(); i++) {
                 if (!tower.hasMoreRegistredObjects())
                     break;

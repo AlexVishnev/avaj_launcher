@@ -10,7 +10,7 @@ public final class JetPlane extends Aircraft implements Flyable {
         super(name, coordinates);
         type = "JetPlane";
 
-        blackBox(" Driver Says: Emmm... guys i`m not a pilot!");
+//        blackBox(" Driver Says: Emmm... guys i`m not a pilot!");
     }
 
     @Override
